@@ -1,17 +1,5 @@
-[
-    {
-        "id": "1",
-        "title": "Breaking News",
-        "body": "This is the body of the breaking news."
-    },
-    {
-        "id": "2",
-        "title": "Tech Update",
-        "body": "This is the body of the tech update news."
-    },
-    {
-        "id": "3",
-        "title": "Sports Highlights",
-        "body": "This is the body of the sports highlights news."
-    }
-]
+{
+    "id": "1",
+    "title": "Breaking News",
+    "body": "This is the body of the breaking news."
+}
